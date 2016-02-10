@@ -1,0 +1,19 @@
+{
+  "name": "react-addons-transition-group",
+  "version": "0.14.7",
+  "description": "A temp solution to bundle react externally in browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benpptung/react-addons-transition-group.git"
+  },
+  "author": "Ben P.P. Tung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benpptung/react-addons-transition-group/issues"
+  },
+  "homepage": "https://github.com/benpptung/react-addons-transition-group#readme"
+}
